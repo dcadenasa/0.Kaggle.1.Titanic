@@ -1,4 +1,4 @@
-# IMPORTANT
+# SUPER IMPORTANT
 
 **If you're planning to code along, make sure to clone, download, or re-pull this repository on the morning of Friday 12/01. All edits will be completed by end of day ET Thursday 11/31.**
 
